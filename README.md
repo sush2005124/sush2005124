@@ -1,16 +1,9 @@
 <div align="center">
 
-<!-- ═══════════════════ HEADER BANNER ═══════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=Durga%20Sushma%20Vucha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Computer%20Science%20Engineering%20Student%20%7C%20AI%20%26%20GenAI%20Enthusiast&descAlignY=58&descSize=17" />
-
-<!-- ═══════════════════ TYPING SVG ═══════════════════ -->
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=600\&size=21\&pause=1000\&color=FF6B6B\&center=true\&vCenter=true\&random=false\&width=700\&lines=4th+Year+CSE+Student+🎓;Java+%7C+Python+%7C+DSA+💻;AI+%2F+ML+%7C+Generative+AI+🤖;Agentic+AI+Enthusiast+🚀;Building+Projects+That+Solve+Real+Problems+✨)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Durga%20Sushma%20Vucha&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Computer%20Science%20Engineering%20Student&descAlignY=58&descSize=17" />
 
 </div>
 
----
 
 ## 👩‍💻 About Me
 
